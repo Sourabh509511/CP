@@ -1,0 +1,36 @@
+Sorting
+    It is a way to rearrange the elements either in increasing orserr or decreasing order.
+
+
+1. Bubble sort
+    Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares 
+    adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+        Worst complexity: n^2
+        Average complexity: n^2
+        Best complexity: n
+        Space complexity: 1
+        Method: Exchanging
+        Stable: Yes
+        Class: Comparison sort
+
+2. Selection Sort
+    Selection sort is a sorting algorithn, works by selecting the smallest element from the array and place it into its right position.
+        Worst complexity: n^2
+        Average complexity: n^2
+        Best complexity: n^2
+        Space complexity: 1
+        Method: Selection
+        Stable: No
+        Class: Comparison sort 
+
+3. Insertion Sort
+    In insertion sort, replace an element from the unsorted part to sorted part of array.
+    In the i'th iteration we've placed 
+        Worst complexity: n^2
+        Average complexity: n^2
+        Best complexity: n
+        Space complexity: 1
+        Method: Insertion
+        Stable: Yes
+        Class: Comparison sort 
+

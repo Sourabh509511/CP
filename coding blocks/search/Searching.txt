@@ -1,0 +1,6 @@
+Searching
+    It is a way to check and get the desired element from the search space.
+
+1.Linear Search 
+2.Binary Search
+    

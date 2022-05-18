@@ -1,0 +1,12 @@
+Array:-
+    =>It is a linear data structure (container) often refferred by a single name and 
+        it is used to store a sequence of values of same time.
+
+    =>The memory allocation is continous.
+
+    =>If array is initialized in global scope without default values then all the values will be 0 and 
+        if the array is initialized in local scope without default value then garbage value will be 0.
+
+    =>During array initialization, size is optional.
+
+    =>If we try to access index not present in the array then garbage value will be returned instead of error. 

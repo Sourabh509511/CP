@@ -1,0 +1,16 @@
+Functions
+    A function is a block of statement which runs sequentially to perform a task.
+    The data can be passed from outside using function parameters. 
+
+
+Reference variables
+    It is another name for already existing variable.
+    When a variable is declared as a reference, it becomes an alternative name for an existing variable.
+    A variable can be declared as a reference by putting ‘&’ in the declaration. 
+
+Function declaration vs Function definition
+
+Function Overloading
+    In C++, there must be only one function with same signature(name, no of parameters, types of parameters).
+    Function overloading is a feature of object oriented programming where two or more functions can have the same name but 
+        different parameters or same parameters with different types.
